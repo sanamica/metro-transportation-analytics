@@ -35,3 +35,4 @@ project/
 ├── images/
 ├── docs/
 └── README.md
+```
